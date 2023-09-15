@@ -33,7 +33,12 @@ body {
 }
 
 .hero h1,
-.home h2 {
+.home h2,
+.info h2,
+.story h2,
+.gallery h2,
+.rsvp h2,
+.gifts h2 {
   font-family: "Sacramento", cursive;
   font-size: 4rem;
 }
