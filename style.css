@@ -38,7 +38,8 @@ body {
 .story h2,
 .gallery h2,
 .rsvp h2,
-.gifts h2 {
+.gifts h2,
+.home .couple h3 {
   font-family: "Sacramento", cursive;
   font-size: 4rem;
 }
